@@ -1,7 +1,7 @@
 # Smart-Water-Pressure-Management
 
 **Team Name:** ICECUBES  
-**Team ID:** MITVPU_SAMVED_Team 420  
+**Team ID:** MITVPU_SAMVED_Team 420
 **Problem Statement:** SMART WATER PRESSURE MANAGEMENT 
 
 ## Dependencies / Requirements
@@ -31,9 +31,9 @@ The system consists of a backend SCADA simulation (`main_simulation.py`) and a w
    ```
 3. Run the batch file to initialize the entire application:
    ```cmd
-   .\run.bat
+   run.bat
    ```
-4. Access the web dashboard by navigating to `http://127.0.0.1:5000` in your web browser.
+4. Access the web dashboard by navigating to `http://127.0.0.1:5000` in your web browser. (Login with **Username:** `admin`, **Password:** `admin`)
 5. Press any key in the command prompt to safely shut down both the simulation and the server.
 
 **Manual Execution (All Platforms):**
@@ -46,4 +46,4 @@ If you are explicitly running the commands manually or are on a non-Windows OS:
    ```bash
    python app.py
    ```
-3. Access the web dashboard at `http://127.0.0.1:5000`
+3. Access the web dashboard at `http://127.0.0.1:5000`. (Login with **Username:** `admin`, **Password:** `admin`)
