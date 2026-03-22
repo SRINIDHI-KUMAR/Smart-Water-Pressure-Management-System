@@ -31,7 +31,7 @@ The system consists of a backend SCADA simulation (`main_simulation.py`) and a w
    ```
 3. Run the batch file to initialize the entire application:
    ```cmd
-   run.bat
+   .\run.bat
    ```
 4. Access the web dashboard by navigating to `http://127.0.0.1:5000` in your web browser. (Login with **Username:** `admin`, **Password:** `admin`)
 5. Press any key in the command prompt to safely shut down both the simulation and the server.
