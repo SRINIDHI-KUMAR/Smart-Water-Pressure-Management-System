@@ -1,8 +1,8 @@
 # Smart-Water-Pressure-Management-System
 
-**Team Name:** ICECUBES  
-**Team ID:** MITVPU_SAMVED_Team 420  
-**Problem Statement:** Smart Water Pressure Management for Equitable Water Supply in Solapur Municipal Corporation 
+**Team Name :** Icecubes  
+**Team ID :** MITVPU_SAMVED_Team 420  
+**Problem Statement :** Smart Water Pressure Management for Equitable Water Supply in Solapur Municipal Corporation 
 
 ## Dependencies / Requirements
 
