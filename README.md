@@ -2,7 +2,7 @@
 
 **Team Name:** ICECUBES  
 **Team ID:** MITVPU_SAMVED_Team 420  
-**Problem Statement:** SMART WATER PRESSURE MANAGEMENT 
+**Problem Statement:** Smart Water Pressure Management for Equitable Water Supply in Solapur Municipal Corporation 
 
 ## Dependencies / Requirements
 
