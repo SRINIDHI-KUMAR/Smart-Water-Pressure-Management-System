@@ -1,4 +1,4 @@
-# Smart-Water-Pressure-Management
+# Smart-Water-Pressure-Management-System
 
 **Team Name:** ICECUBES  
 **Team ID:** MITVPU_SAMVED_Team 420  
