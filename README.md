@@ -1,8 +1,8 @@
 # Smart-Water-Pressure-Management
 
-**Team Name:** icecubes  
+**Team Name:** ICECUBES  
 **Team ID:** MITVPU_SAMVED_Team 420
-**Problem Statement:** smart water pressure management  
+**Problem Statement:** SMART WATER PRESSURE MANAGEMENT 
 
 ## Dependencies / Requirements
 
